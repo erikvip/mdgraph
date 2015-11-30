@@ -1,0 +1,34 @@
+More UML goodies:
+https://github.com/tmtk75/jumly
+
+//Kinda ugly UML, but does a lot:
+http://knsv.github.io/mermaid/ 
+
+//Nonnomonomal
+http://www.nomnoml.com
+
+//This one could be useful for auto-class diagrams...
+http://digitalkaoz.net/yuml-php/
+
+//Venn diagrams...not so useful for our docs, but reporting
+https://github.com/benfred/venn.js
+//Sankey ... reporting
+https://github.com/tamc/Sankey
+
+
+//...pure text diagrams...interesting
+https://github.com/weidagang/text-diagram
+
+
+
+Example url:
+http://uml.localhost/Title%3A+Here+is+a+title%0AA-%3EB%3A+Normal+line%0AB--%3EC%3A+Dashed+line%0AC-%3E%3ED%3A+Open+arrow%0AD--%3E%3EA%3A+Dashed+open+arrow%0A
+
+
+PHP requies htaccess rewrite like this:
+RewriteEngine On
+RewriteRule . index.php [NC,L,QSA]
+
+
+Should look into a pure nodejs solution with HTTP module...
+
