@@ -15,3 +15,11 @@ Client->Server: Hey man
 Server->Client: Yo Yo
 )
 ```
+
+# Todo
+
+* nomonoml
+* jumly
+* mermaid
+* Write this is Node...This php version is just suppose to be an initial concept
+
